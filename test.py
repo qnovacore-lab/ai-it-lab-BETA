@@ -13,6 +13,27 @@ print("Merhaba Github2")
  #    GitHub ☁️
  # M = Modified
 
+# global user.name "qnovacore-lab"
+# global user.email
+# global user.email "qnovacore@gmail.com"
+# global user.email
+
+# Stage	Kayda alınacak değişiklikleri hazırla
+# Commit Yerel geçmişe bir kayıt oluştur
+# Push	Kayıtları GitHub'a gönder
+# Pull	GitHub'daki değişiklikleri bilgisayarına al
+
 print("Oldumu change")
 print("birdaha")
 print("Aduget")
+
+
+#--------------- KOMUTLAR----------------------
+
+
+
+# git diff test.py         Yaptığın değişiklikleri gösterir.
+# git add test.py          Yaptığın değişiklikleri hazırlar. Commit için. 
+# git status               dosyanın commit için hazır olduğunu gösterdi.
+
+       
