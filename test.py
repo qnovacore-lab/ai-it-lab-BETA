@@ -32,8 +32,9 @@ print("Aduget")
 
 
 
-# git diff test.py         Yaptığın değişiklikleri gösterir.
-# git add test.py          Yaptığın değişiklikleri hazırlar. Commit için. 
-# git status               dosyanın commit için hazır olduğunu gösterdi.
+# git diff test.py                               Yaptığın değişiklikleri gösterir.
+# git add test.py                                Yaptığın değişiklikleri hazırlar. Commit için. 
+# git status                                     dosyanın commit için hazır olduğunu gösterdi.
+# git commit -m "docs: add Git learning notes"   bilgisayarındaki Git geçmişine eklenir; henüz GitHub'a gönderilmez.
 
        
