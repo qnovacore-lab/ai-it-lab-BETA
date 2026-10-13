@@ -36,5 +36,6 @@ print("Aduget")
 # git add test.py                                Yaptığın değişiklikleri hazırlar. Commit için. 
 # git status                                     dosyanın commit için hazır olduğunu gösterdi.
 # git commit -m "docs: add Git learning notes"   bilgisayarındaki Git geçmişine eklenir; henüz GitHub'a gönderilmez.
+# git push                                       Tüm Commitleri Github gönderir (her kommit ayrı kayıt main kısımları temsil eder.)
 
        
