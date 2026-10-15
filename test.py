@@ -46,8 +46,13 @@ print("Aduget")
 #                                               Çıkmak için klavyeden sadece q tuşuna bas
 #                                               - Eksi: Eski sürümdeki satır. Yeni sürümde kaldırılmış veya değiştirilmiş.
 #                                               + Artı: Yeni sürümde eklenen satır. Yeni eklenmiş veya eski satırın yerine gelmiş.
+# git diff HEAD~3 HEAD
+# git show --stat HEAD                          en son commit'te hangi dosyaların değiştiğini ve kaç satır eklendiğini veya silindiğini gösterir.
+# git show HEAD                                Bu komut son commit'in ayrıntılarını, yani eklenen ve çıkarılan satırları da gösterir.
 
 
+#
+#
 #
 
 
